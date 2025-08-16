@@ -1,3 +1,3 @@
-# javascript
+# Apuntes de javascript
 
 Aprende JavaScript moderno con ECMAScript, TypeScript: Juan Fernando Urrego
